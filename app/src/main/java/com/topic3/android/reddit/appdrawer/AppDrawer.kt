@@ -58,7 +58,6 @@ fun AppDrawer(
  */
 @Composable
 private fun AppDrawerHeader() {
-  //TODO add your code here
   Column(
     modifier = Modifier.fillMaxWidth(),
     horizontalAlignment = Alignment.CenterHorizontally
